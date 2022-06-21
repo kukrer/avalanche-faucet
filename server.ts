@@ -10,7 +10,7 @@ import EVM from './vms/evm'
 import { SendTokenResponse } from './types'
 
 import { evmchains, GLOBAL_RL } from './config.json'
-import { BN } from 'avalanche'
+import { BN } from '@savannah-labs/savannahjs'
 
 dotenv.config()
 

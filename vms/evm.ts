@@ -1,4 +1,4 @@
-import { BN } from 'avalanche';
+import { BN } from '@savannah-labs/savannahjs';
 import Web3 from 'web3';
 import { ConfigType, SendTokenResponse, RequestType } from './evmTypes';
 
