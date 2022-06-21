@@ -14,7 +14,7 @@
             "ID": "C",
             "NAME": "Marula (C-Chain)",
             "TOKEN": "FUEL",
-            "RPC": "http://18.116.224.200/ext/C/rpc",
+            "RPC": "http://marularpc.savannah.network:9650/ext/C/rpc",
             "CHAINID": 43003,
             "EXPLORER": "https://testnet.snowtrace.io",
             "IMAGE": "/avaxred.png",
